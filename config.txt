@@ -1,0 +1,3 @@
+BASE_URL="https://developers-dev.3dsignals.io"
+WO_INPUT_FILE_PATH="./WO_List.csv"
+CREDENTIALS_PATH="./credentials.json"
