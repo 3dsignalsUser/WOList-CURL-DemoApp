@@ -39,7 +39,7 @@ the contents of the file can be edited as needed.
 
 Here is an example for the contents of the file:
 {
-    "userEmail":"{user@domain}",
+    "userEmail":"{user}",
     "password":"{password}"
 }
 
